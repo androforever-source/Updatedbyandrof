@@ -1,8 +1,11 @@
 {
-  "versionName": "9.3.6",
-  "forceUpdate": false,
+  "show": true,
+  "version_name": "9.3.6",
+  "force_update": false,
   "title": "Nueva Actualización Disponible!",
-  "description": "Actualiza la última versión y obten las últimas funciones.",
-  "buttonText": "ACTUALIZAR AHORA",
-  "buttonUrl": "https://androforever.com/bowmasters-mod-apk/"
+  "message": "Actualiza la última versión para disfrutar de las nuevas funciones y mejoras.",
+  "button_text": "ACTUALIZAR AHORA",
+  "cancel_button_text": "CERRAR",
+  "action_url": "https://androforever.com/bowmasters-mod-apk/",
+  "theme": "dark"
 }
