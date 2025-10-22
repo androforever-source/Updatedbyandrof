@@ -1,11 +1,8 @@
 {
-  "show": true,
-  "version_name": "3.0.2",
-  "force_update": false,
+  "versionName": "3.0.2",
+  "forceUpdate": false,
   "title": "Nueva Actualización Disponible!",
-  "message": "Actualiza la última versión para disfrutar de las nuevas funciones y mejoras.",
-  "button_text": "ACTUALIZAR AHORA",
-  "cancel_button_text": "CERRAR",
-  "action_url": "https://androforever.com/pvz-fusion-apk/",
-  "theme": "dark"
+  "description": "Actualiza la última versión y obten las últimas funciones.",
+  "buttonText": "ACTUALIZAR AHORA",
+  "buttonUrl": "https://bit.ly/4lhmoBw"
 }
