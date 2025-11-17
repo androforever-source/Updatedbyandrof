@@ -1,8 +1,8 @@
 {
-  "versionName": "3.18.2",
+  "versionName": "3.19.1",
   "forceUpdate": false,
   "title": "Nueva Actualización Disponible!",
   "description": "Actualiza la última versión y obten las últimas funciones.",
   "buttonText": "ACTUALIZAR AHORA",
-  "buttonUrl": "https://t.me/androforever_oficial/8248"
+  "buttonUrl": "https://t.me/androforever_oficial/9667"
 }
