@@ -1,5 +1,5 @@
 {
-  "versionName": "5.18.14.8",
+  "versionName": "5.18.15.2",
   "forceUpdate": false,
   "title": "Nueva Actualización Disponible!",
   "description": "Actualiza la última versión y obten las últimas funciones.",
