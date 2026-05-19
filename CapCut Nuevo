@@ -1,0 +1,13 @@
+{
+  "appName": "CapCut",
+  "version": "18.0.1",
+  "forceUpdate": false,
+  "updateUrl": "https://t.me/RecordAPK",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Anti Dialog Remover Added",
+ "Smart Version Code Check",
+ "Pure Canvas Rendering"
+ ]
+}
