@@ -1,0 +1,14 @@
+{
+  "appName": "Metrolist",
+  "version": "12.4.3",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3J5I1rg",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Funciones pagas desbloqueadas",
+ "Reproduce cualquier canción",
+ "Sin anuncios",
+ "Habilitado el modo aleatorio"
+ ]
+}
