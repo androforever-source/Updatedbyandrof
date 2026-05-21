@@ -1,0 +1,14 @@
+{
+  "appName": "YouTube Music Premium",
+  "version": "9.20.52",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4lexK9i",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin Anuncios",
+ "Alta calidad de reproducción"
+ "Reproducción en segundo plano"
+ ]
+}
