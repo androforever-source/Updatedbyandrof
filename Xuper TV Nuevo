@@ -1,0 +1,13 @@
+{
+  "appName": "Xuper TV Premium",
+  "version": "6.2.9",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4bC3Me9",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Funciones pagas desbloqueadas",
+ "No es necesario usar cuenta",
+ "Sin Anuncios"
+ ]
+}
