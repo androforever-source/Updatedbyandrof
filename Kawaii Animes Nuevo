@@ -1,0 +1,13 @@
+{
+  "appName": "Kawaii Animes Premium",
+  "version": "2.0.1",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4mg7yfP",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium",
+ "Sin Anuncios",
+ "Alta calidad de reproducción"
+ ]
+}
