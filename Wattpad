@@ -1,0 +1,12 @@
+{
+  "appName": "Wattpad Premium",
+  "version": "11.30.1",
+  "forceUpdate": true,
+  "updateUrl": "https://androforever.com/wattpad-premium-apk/",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Premium Desbloqueado",
+ "Sin Anuncios",
+ ]
+}
