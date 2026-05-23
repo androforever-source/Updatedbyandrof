@@ -1,0 +1,12 @@
+{
+  "appName": "PowerDirector Pro",
+  "version": "16.4.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4qmQ4kD",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin Anuncios",
+ ]
+}
