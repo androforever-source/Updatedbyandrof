@@ -1,0 +1,12 @@
+{
+  "appName": "Niagara Launcher Pro",
+  "version": "1.16.6",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3Uc8PZg",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin Anuncios",
+ ]
+}
