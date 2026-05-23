@@ -1,0 +1,13 @@
+{
+  "appName": "KineMaster Pro",
+  "version": "2.204.1534",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4flV5oj",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin Anuncios",
+ "Efectos Desbloqueados"
+ ]
+}
