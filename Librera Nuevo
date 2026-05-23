@@ -1,0 +1,12 @@
+{
+  "appName": "Librera Pro",
+  "version": "9.4.8",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/479r8o0",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin Anuncios",
+ ]
+}
