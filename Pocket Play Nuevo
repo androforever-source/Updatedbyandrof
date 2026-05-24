@@ -1,12 +1,12 @@
 {
-  "appName": "Pocket Play Premium",
+  "appName": "Pocket Play Pro",
   "version": "2.4.6",
   "forceUpdate": true,
   "updateUrl": "https://bit.ly/4s9ePRE",
   "btnUpdateText": "UPDATE NOW",
   "btnExitText": "EXIT",
  "changelog": [
- "Version Premium Desbloqueado",
+ "Version Pro Desbloqueado",
  "Sin Anuncios"
  ]
 }
