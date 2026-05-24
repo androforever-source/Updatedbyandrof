@@ -1,0 +1,12 @@
+{
+  "appName": "TunnelDOOM VPN Premium",
+  "version": "3.8.5",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4fpOg5a",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin Anuncios"
+ ]
+}
