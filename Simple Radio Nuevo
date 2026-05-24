@@ -1,0 +1,12 @@
+{
+  "appName": "Simple Radio Premium",
+  "version": "6.2.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4tNiTbF",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin Anuncios",
+ ]
+}
