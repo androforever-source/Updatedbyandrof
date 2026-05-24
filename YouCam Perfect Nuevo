@@ -1,0 +1,12 @@
+{
+  "appName": "YouCam Perfect Premium",
+  "version": "6.18.1",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/47bI8Ki",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin Anuncios",
+ ]
+}
