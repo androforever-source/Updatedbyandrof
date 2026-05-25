@@ -1,0 +1,13 @@
+{
+  "appName": "TikTok Premium",
+  "version": "45.3.6",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/40ZIRfn",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin marca de agua",
+ "Todas las regiones desbloqueadas"
+ ]
+}
