@@ -1,0 +1,12 @@
+{
+  "appName": "Audiomack Nuevo",
+  "version": "8.3.1",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4lWDmWW",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios",
+ ]
+}
