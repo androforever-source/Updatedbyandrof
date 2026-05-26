@@ -1,0 +1,12 @@
+{
+  "appName": "Calm Premium",
+  "version": "6.96",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4oup8Ok",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios",
+ ]
+}
