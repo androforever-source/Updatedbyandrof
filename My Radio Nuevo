@@ -1,0 +1,12 @@
+{
+  "appName": "My Radio Premium",
+  "version": "1.02.13.0521",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4nPSkzh",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios",
+ ]
+}
