@@ -1,0 +1,12 @@
+{
+  "appName": "TikTok 18 Premium",
+  "version": "2.1.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3H4C5hF",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin marca de agua",
+ ]
+}
