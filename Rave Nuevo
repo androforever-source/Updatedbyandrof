@@ -1,0 +1,12 @@
+{
+  "appName": "Rave Premium",
+  "version": "8.2.44",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/49JPt6D",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios",
+ ]
+}
