@@ -1,0 +1,12 @@
+{
+  "appName": "Lark Player Premium",
+  "version": "2026.7.7",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/482PiSV",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios",
+ ]
+}
