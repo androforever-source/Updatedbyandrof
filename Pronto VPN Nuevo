@@ -1,0 +1,12 @@
+{
+  "appName": "Pronto VPN Premium",
+  "version": "5.18.46.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/40vXSVf",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios",
+ ]
+}
