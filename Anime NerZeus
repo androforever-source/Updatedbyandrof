@@ -1,0 +1,13 @@
+{
+  "appName": "Anime NerZeus Premium",
+  "version": "1.1.0.10",
+  "forceUpdate": true,
+  "updateUrl": "https://androforever.com/anime-nerzeus-premium-apk/",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium",
+ "Sin Anuncios",
+ "Alta calidad de reproducción"
+ ]
+}
