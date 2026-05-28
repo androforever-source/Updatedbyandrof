@@ -1,0 +1,12 @@
+{
+  "appName": "VlogU Premium",
+  "version": "7.15.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/47dXtKi",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin Anuncios",
+ ]
+}
