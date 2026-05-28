@@ -1,0 +1,12 @@
+{
+  "appName": "GoFasting Premium",
+  "version": "1.03.67.0523",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/477K32u",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin Anuncios",
+ ]
+}
