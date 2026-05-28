@@ -1,0 +1,12 @@
+{
+  "appName": "Alarmy  Premium",
+  "version": "26.22.1",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3IZfeo7",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin Anuncios",
+ ]
+}
