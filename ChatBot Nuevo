@@ -1,0 +1,12 @@
+{
+  "appName": "ChatBot Premium",
+  "version": "1.7.3",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4ooEBz8",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin Anuncios",
+ ]
+}
