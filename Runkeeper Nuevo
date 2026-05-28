@@ -1,0 +1,12 @@
+{
+  "appName": "Runkeeper Premium",
+  "version": "16.25.1",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4mHpro3",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin Anuncios",
+ ]
+}
