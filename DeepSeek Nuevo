@@ -1,0 +1,12 @@
+{
+  "appName": "DeepSeek Premium",
+  "version": "2.1.1",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/42KZXhN",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Recursos Optimizados",
+ "Sin Anuncios",
+ ]
+}
