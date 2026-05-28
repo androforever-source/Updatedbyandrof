@@ -1,0 +1,12 @@
+{
+  "appName": "YouCut Pro",
+  "version": "1.712.1218",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4ow0eO5",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin Anuncios",
+ ]
+}
