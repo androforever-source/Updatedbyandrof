@@ -1,0 +1,12 @@
+{
+  "appName": "Epix Play Premium",
+  "version": "3.7.9",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/47R0Eb9",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin Anuncios",
+ ]
+}
