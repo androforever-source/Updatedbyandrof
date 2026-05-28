@@ -1,0 +1,12 @@
+{
+  "appName": "TENADA Premium",
+  "version": "6.2.3",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4dTJVXD",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin Anuncios",
+ ]
+}
