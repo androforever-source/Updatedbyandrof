@@ -1,0 +1,12 @@
+{
+  "appName": "Fitify Pro",
+  "version": "1.125.1",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3WuDL82",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Funciones Pro / de pago desbloqueadas",
+ "Sin Anuncios",
+ ]
+}
