@@ -1,0 +1,12 @@
+{
+  "appName": "Battery Guru Premium",
+  "version": "2.4.9.2",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4bAlSfh",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin Anuncios",
+ ]
+}
