@@ -1,0 +1,12 @@
+{
+  "appName": "OldRoll Premium",
+  "version": "6.4.5",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4fm7gSf",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin Anuncios"
+ ]
+}
