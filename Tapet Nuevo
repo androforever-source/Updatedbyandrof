@@ -1,0 +1,12 @@
+{
+  "appName": "Tapet Premium",
+  "version": "11.000.069",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3I5rweC",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
