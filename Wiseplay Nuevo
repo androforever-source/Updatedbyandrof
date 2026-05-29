@@ -1,0 +1,12 @@
+{
+  "appName": "Wiseplay Premium",
+  "version": "8.5.3",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4nzJ2Hq",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin Anuncios"
+ ]
+}
