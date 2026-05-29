@@ -1,0 +1,12 @@
+{
+  "appName": "Mazii Premium",
+  "version": "6.8.27",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/489ljY3",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin Anuncios"
+ ]
+}
