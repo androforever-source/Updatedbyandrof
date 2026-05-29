@@ -1,0 +1,12 @@
+{
+  "appName": "G1REC Pro",
+  "version": "3.6.6",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4uH7vxu",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin Anuncios"
+ ]
+}
