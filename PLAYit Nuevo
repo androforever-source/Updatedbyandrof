@@ -1,0 +1,12 @@
+{
+  "appName": "PLAYit Premium",
+  "version": "2.7.49.10",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4o9yMoL",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
