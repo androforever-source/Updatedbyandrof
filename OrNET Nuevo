@@ -1,0 +1,12 @@
+{
+  "appName": "OrNET Pro",
+  "version": "1.9.55",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4u7UnRA",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
