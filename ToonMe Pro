@@ -1,0 +1,12 @@
+{
+  "appName": "ToonMe Pro",
+  "version": "0.7.21",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3PRuCqj",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
