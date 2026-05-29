@@ -1,0 +1,12 @@
+{
+  "appName": "Dr.Fone Pro",
+  "version": "5.3.4.1014",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3L1x37e",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin Anuncios",
+ ]
+}
