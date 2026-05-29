@@ -1,0 +1,12 @@
+{
+  "appName": "FacePic Pro",
+  "version": "4.0.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4sIGCt1",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
