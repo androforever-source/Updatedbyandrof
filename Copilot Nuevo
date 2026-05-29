@@ -1,0 +1,12 @@
+{
+  "appName": "Copilot Pro",
+  "version": "30.0.440527002",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/41FYicW",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
