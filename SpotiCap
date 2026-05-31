@@ -1,0 +1,13 @@
+{
+  "appName": "SpotiCap Premium",
+  "version": "2.3.0",
+  "forceUpdate": true,
+  "updateUrl": "https://androforever.com/spoticap-premium-apk/",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Sin reproduccion aleatoria forzada",
+ "Sin anuncios",
+ "Controles multimedia"
+ ]
+}
