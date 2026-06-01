@@ -1,0 +1,13 @@
+{
+  "appName": "CapCut Pro",
+  "version": "18.1.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4lXf3YW",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Unlocked",
+ "No watermark",
+ "Filters and effects unlocked"
+ ]
+}
