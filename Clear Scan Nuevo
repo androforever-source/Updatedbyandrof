@@ -1,0 +1,12 @@
+{
+  "appName": "Clear Scan Premium",
+  "version": "10.1.66",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/48L8ipI",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
