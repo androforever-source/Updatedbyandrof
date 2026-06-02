@@ -1,0 +1,12 @@
+{
+  "appName": "Sygic Premium",
+  "version": "26.3.2-112577",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/41rOWRJ",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
