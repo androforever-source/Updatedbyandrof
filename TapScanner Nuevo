@@ -1,0 +1,12 @@
+{
+  "appName": "TapScanner Pro",
+  "version": "3.1.06",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/47fsDm3",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
