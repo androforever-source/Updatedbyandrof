@@ -1,0 +1,12 @@
+{
+  "appName": "My Recipe Box Premium",
+  "version": "8.8.6",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/483BeZ1",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
