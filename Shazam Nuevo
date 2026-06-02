@@ -1,0 +1,12 @@
+{
+  "appName": "Shazam Premium",
+  "version": "16.43.0-260521",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4m0zfsY",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
