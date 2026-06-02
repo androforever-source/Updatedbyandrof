@@ -1,0 +1,12 @@
+{
+  "appName": "Sweet Selfie Plus",
+  "version": "5.7.1769",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4a05LIc",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Plus Desbloqueado",
+ "Sin anuncios"
+ ]
+}
