@@ -1,0 +1,12 @@
+{
+  "appName": "FITAPP Premium",
+  "version": "9.1.2",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4erNbeT",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
