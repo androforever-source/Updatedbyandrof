@@ -1,0 +1,12 @@
+{
+  "appName": "Photo Lab Pro",
+  "version": "3.13.98",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3Jh21HF",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
