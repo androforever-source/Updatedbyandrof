@@ -1,0 +1,12 @@
+{
+  "appName": "Smart AudioBook Player Pro",
+  "version": "11.7.6",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/45b0dYA",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
