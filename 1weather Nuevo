@@ -1,0 +1,12 @@
+{
+  "appName": "1weather Premium",
+  "version": "12.6.3",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/47bOpqH",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
