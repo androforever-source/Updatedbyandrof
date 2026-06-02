@@ -1,0 +1,12 @@
+{
+  "appName": "myTuner Radio Pro",
+  "version": "9.8.6",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/47Pg4g6",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
