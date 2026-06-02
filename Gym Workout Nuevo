@@ -1,0 +1,12 @@
+{
+  "appName": "Gym Workout Premium",
+  "version": "1.6.2",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/46kJ1jW",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
