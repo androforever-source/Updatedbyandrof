@@ -1,0 +1,12 @@
+{
+  "appName": "YoWindow Pro",
+  "version": "2.58.20",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4ndqyve",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
