@@ -1,0 +1,12 @@
+{
+  "appName": "Psiphon Pro",
+  "version": "471",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4mpVFDU",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
