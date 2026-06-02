@@ -1,0 +1,12 @@
+{
+  "appName": "Moviebase Premium",
+  "version": "6.8.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/46p3btq",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
