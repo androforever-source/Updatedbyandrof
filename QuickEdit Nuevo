@@ -1,0 +1,12 @@
+{
+  "appName": "QuickEdit Pro",
+  "version": "1.12.11",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4tVlPCA",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
