@@ -1,0 +1,12 @@
+{
+  "appName": "Podcast Republic Premium",
+  "version": "26.5.18",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3JydZgu",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
