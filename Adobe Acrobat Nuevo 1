@@ -1,0 +1,12 @@
+{
+  "appName": "Adobe Acrobat Premium",
+  "version": "26.4.4.44722",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3VqqOeT",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin Anuncios"
+ ]
+}
