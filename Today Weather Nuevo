@@ -1,0 +1,12 @@
+{
+  "appName": "Today Weather Premium",
+  "version": "2.5.0-5",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3KBHldM",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
