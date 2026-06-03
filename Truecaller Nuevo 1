@@ -1,0 +1,15 @@
+{
+  "appName": "Truecaller Premium",
+  "version": "26.22.6",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3UI94LF",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin Anuncios",
+ "Identificador de llamadas",
+ "Escáner de llamadas Al",
+ "Modo incógnito"
+ ]
+}
