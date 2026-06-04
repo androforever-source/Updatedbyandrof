@@ -1,0 +1,12 @@
+{
+  "appName": "Picsart Premium",
+  "version": "30.0.3",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/45zQMCv",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
