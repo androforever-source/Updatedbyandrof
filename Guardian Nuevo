@@ -1,0 +1,12 @@
+{
+  "appName": "Guardian Premium",
+  "version": "6.221.22881",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/47d1WwI",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
