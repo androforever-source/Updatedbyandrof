@@ -1,0 +1,12 @@
+{
+  "appName": "365Scores Premium",
+  "version": "14.7.5",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3IXTyc7",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
