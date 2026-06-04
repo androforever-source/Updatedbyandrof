@@ -1,0 +1,12 @@
+{
+  "appName": "Avast Cleanup Premium",
+  "version": "26.08.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4mTaijy",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
