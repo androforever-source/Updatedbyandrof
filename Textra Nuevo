@@ -1,0 +1,12 @@
+{
+  "appName": "Textra Pro",
+  "version": "4.85",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4a5DOyK",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
