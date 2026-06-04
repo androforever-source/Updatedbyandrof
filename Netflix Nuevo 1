@@ -1,0 +1,12 @@
+{
+  "appName": "Netflix Premium",
+  "version": "9.69.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/45lo72V",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin Anuncios"
+ ]
+}
