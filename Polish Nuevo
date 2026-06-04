@@ -1,0 +1,12 @@
+{
+  "appName": "Polish Pro",
+  "version": "1.761.262",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/42Cl4mp",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
