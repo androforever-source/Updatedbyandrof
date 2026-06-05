@@ -1,0 +1,12 @@
+{
+  "appName": "Lark Player Premium",
+  "version": "1.02.105.0527",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/46Y1t2A",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
