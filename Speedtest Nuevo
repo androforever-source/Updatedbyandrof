@@ -1,0 +1,12 @@
+{
+  "appName": "Speedtest Premium",
+  "version": "7.0.4",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3WiR2QT",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
