@@ -1,0 +1,12 @@
+{
+  "appName": "Instagram Pro",
+  "version": "433.0.0.0.56",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4ft0udv",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
