@@ -1,0 +1,12 @@
+{
+  "appName": "Gratitude Premium",
+  "version": "7.1.8",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/458NDJe",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
