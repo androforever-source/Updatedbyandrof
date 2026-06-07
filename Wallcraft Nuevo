@@ -1,0 +1,12 @@
+{
+  "appName": "Wallcraft Premium",
+  "version": "3.62.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4xfVC3F",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
