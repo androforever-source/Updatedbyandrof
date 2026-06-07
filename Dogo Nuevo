@@ -1,0 +1,12 @@
+{
+  "appName": "Dogo Premium",
+  "version": "10.43.1",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/47Sy4qC",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
