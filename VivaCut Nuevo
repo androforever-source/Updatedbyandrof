@@ -1,0 +1,12 @@
+{
+  "appName": "VivaCut  Pro",
+  "version": "4.5.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3JOBVvG",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
