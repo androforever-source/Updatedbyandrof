@@ -1,0 +1,14 @@
+{
+  "appName": "Duolingo Premium",
+  "version": "6.83.2",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4mu3ys7",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Funciones pagas desbloqueada",
+ "Sin anuncios",
+ "Lecciones desbloqueadas",
+ "Corazones ilimitados"
+ ]
+}
