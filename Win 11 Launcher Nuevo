@@ -1,0 +1,12 @@
+{
+  "appName": "Win 11 Launcher Pro",
+  "version": "9.53",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4bmmFSz",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
