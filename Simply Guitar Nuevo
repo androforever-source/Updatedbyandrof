@@ -1,0 +1,12 @@
+{
+  "appName": "Simply Guitar Premium",
+  "version": "9.7.23",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/40zvcuE",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
