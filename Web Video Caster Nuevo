@@ -1,0 +1,12 @@
+{
+  "appName": "Web Video Caster Premium",
+  "version": "6.0.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/473p54D",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
