@@ -1,0 +1,12 @@
+{
+  "appName": "Fotmob Pro",
+  "version": "233.16812.20260602",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4oup8Ok",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
