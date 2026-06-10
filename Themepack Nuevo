@@ -1,0 +1,12 @@
+{
+  "appName": "Themepack Premium",
+  "version": "1.0.0.4107",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4lcS5fo",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
