@@ -1,0 +1,13 @@
+{
+  "appName": "InShot Pro",
+  "version": "2.213.1538",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3LbUIS8",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin Anuncios",
+ "Efectos Desbloqueados"
+ ]
+}
