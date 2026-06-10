@@ -1,0 +1,12 @@
+{
+  "appName": "Drama Pops Premium",
+  "version": "3.2.3",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/49Tk7db",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
