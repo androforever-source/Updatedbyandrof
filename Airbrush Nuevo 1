@@ -1,0 +1,12 @@
+{
+  "appName": "AirBrush Premium",
+  "version": "8.9.5",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3VqqOeT",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin Anuncios"
+ ]
+}
