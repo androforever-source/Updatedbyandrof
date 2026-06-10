@@ -1,0 +1,12 @@
+{
+  "appName": "Magma TV Premium",
+  "version": "1.0.9",
+  "forceUpdate": true,
+  "updateUrl": "https://androforever.com/magma-tv-apk/",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
