@@ -1,0 +1,12 @@
+{
+  "appName": "vpnify Premium",
+  "version": "2.2.9",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3ZmADfQ",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
