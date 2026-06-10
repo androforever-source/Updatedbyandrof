@@ -1,0 +1,12 @@
+{
+  "appName": "Reddit Premium",
+  "version": "2026.23.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4ljyfa4",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
