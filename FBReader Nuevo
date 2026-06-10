@@ -1,0 +1,12 @@
+{
+  "appName": "FBReader Premium",
+  "version": "3.8.28",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/45jwxI3",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
