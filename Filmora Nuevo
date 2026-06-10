@@ -1,0 +1,12 @@
+{
+  "appName": "Filmora Pro",
+  "version": "15.5.10",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/47aIUbQ",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
