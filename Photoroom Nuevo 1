@@ -1,0 +1,12 @@
+{
+  "appName": "Photoroom Pro",
+  "version": "2026.24.01",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3GXfNyi",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin Anuncios"
+ ]
+}
