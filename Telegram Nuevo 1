@@ -1,0 +1,12 @@
+{
+  "appName": "Telegram Premium",
+  "version": "12.8.1",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3IYb3sD",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin Anuncios"
+ ]
+}
