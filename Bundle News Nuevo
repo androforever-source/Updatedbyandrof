@@ -1,0 +1,12 @@
+{
+  "appName": "Bundle News Premium",
+  "version": "6.2.32",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4904ot8",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
