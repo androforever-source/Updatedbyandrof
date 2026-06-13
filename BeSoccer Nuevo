@@ -1,0 +1,12 @@
+{
+  "appName": "BeSoccer Premium",
+  "version": "6.4.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4tmtYQf",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
