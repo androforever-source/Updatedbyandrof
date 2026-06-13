@@ -1,0 +1,12 @@
+{
+  "appName": "LockMyPix Premium",
+  "version": "6.1.3_Gemini",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4rtaQPi",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
