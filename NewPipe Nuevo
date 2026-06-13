@@ -1,0 +1,12 @@
+{
+  "appName": "NewPipe Premium",
+  "version": "0.28.8",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3J1GmCY",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
