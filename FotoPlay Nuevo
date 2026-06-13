@@ -1,0 +1,12 @@
+{
+  "appName": "FotoPlay Pro",
+  "version": "8.6.1",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4h8xBnN",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
