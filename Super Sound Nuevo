@@ -1,0 +1,12 @@
+{
+  "appName": "Super Sound Pro",
+  "version": "2.8.4.2",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4v2Q6jq",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
