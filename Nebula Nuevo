@@ -1,0 +1,12 @@
+{
+  "appName": "Nebula Premium",
+  "version": "4.73.01",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4lgRVUm",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
