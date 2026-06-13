@@ -1,0 +1,12 @@
+{
+  "appName": "VLLO Premium",
+  "version": "13.0.4",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4msBntx",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
