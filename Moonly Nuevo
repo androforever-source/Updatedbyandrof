@@ -1,0 +1,12 @@
+{
+  "appName": "Moonly Premium",
+  "version": "1.0.304",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3V3au3K",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
