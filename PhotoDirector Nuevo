@@ -1,0 +1,12 @@
+{
+  "appName": "PhotoDirector Premium",
+  "version": "20.13.6",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3I662yd",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
