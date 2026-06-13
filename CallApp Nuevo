@@ -1,0 +1,12 @@
+{
+  "appName": "CallApp Premium",
+  "version": "2.268",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4fny5oZ",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
