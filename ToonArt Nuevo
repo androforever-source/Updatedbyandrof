@@ -1,0 +1,12 @@
+{
+  "appName": "ToonArt Pro",
+  "version": "2.0.4.8",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4oup8Ok",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
