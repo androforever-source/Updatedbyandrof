@@ -1,0 +1,12 @@
+{
+  "appName": "LogoWiz Premium",
+  "version": "147.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4uwTKAW",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
