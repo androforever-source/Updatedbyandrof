@@ -1,0 +1,12 @@
+{
+  "appName": "Pixlr Premium",
+  "version": "3.8.4",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3W3JLEB",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
