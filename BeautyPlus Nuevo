@@ -1,0 +1,12 @@
+{
+  "appName": "BeautyPlus Premium",
+  "version": "7.39.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/49E7Fge",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
