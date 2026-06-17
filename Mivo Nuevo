@@ -1,0 +1,12 @@
+{
+  "appName": "Mivo Premium",
+  "version": "3.35.876",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4e47ChJ",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
