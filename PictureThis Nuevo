@@ -1,0 +1,12 @@
+{
+  "appName": "PictureThis Premium",
+  "version": "5.28.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3WgAPvR",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
