@@ -1,0 +1,12 @@
+{
+  "appName": "Rosetta Stone Premium",
+  "version": "9.2.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4peCuOc",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
