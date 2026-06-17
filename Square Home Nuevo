@@ -1,0 +1,12 @@
+{
+  "appName": "Square Home Premium",
+  "version": "4.0.3",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4ajt144",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
