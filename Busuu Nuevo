@@ -1,0 +1,12 @@
+{
+  "appName": "Busuu Premium",
+  "version": "32.42.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/41k7PpG",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
