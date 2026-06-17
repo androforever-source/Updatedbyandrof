@@ -1,0 +1,12 @@
+{
+  "appName": "TickTick  Premium",
+  "version": "8.1.0.1",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/47tSiY1",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
