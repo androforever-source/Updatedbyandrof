@@ -1,0 +1,12 @@
+{
+  "appName": "StoryBit Premium",
+  "version": "3.1.1",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3Qo5pDY",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
