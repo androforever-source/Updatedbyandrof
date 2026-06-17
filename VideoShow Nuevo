@@ -1,0 +1,12 @@
+{
+  "appName": "VideoShow Pro",
+  "version": "11.0.5.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4oOQwH9,
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
