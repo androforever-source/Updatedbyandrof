@@ -1,0 +1,12 @@
+{
+  "appName": "Radio FM Premium",
+  "version": "18.19",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4r7PIPd",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
