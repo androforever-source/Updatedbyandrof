@@ -1,0 +1,12 @@
+{
+  "appName": "BIXPLUS Premium",
+  "version": "1.43",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3ZLSfC9",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
