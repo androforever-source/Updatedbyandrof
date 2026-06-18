@@ -1,0 +1,12 @@
+{
+  "appName": "Anime Panda Premium",
+  "version": "PD_ESP_V1.2.32",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3KRNlQ7",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
