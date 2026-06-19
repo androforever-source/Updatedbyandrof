@@ -1,0 +1,13 @@
+{
+  "appName": "YouTube Premium",
+  "version": "21.25.523",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/46Cg5oD",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin Anuncios",
+ "Reproducción Segundo Plano"
+ ]
+}
