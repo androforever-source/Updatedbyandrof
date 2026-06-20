@@ -1,0 +1,12 @@
+{
+  "appName": "SoundCloud Premium",
+  "version": "2026.06.10-release",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4fk6GnQ",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
