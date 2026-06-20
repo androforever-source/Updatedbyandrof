@@ -1,0 +1,12 @@
+{
+  "appName": "CamScanner Premium",
+  "version": "7.19.0.2606030000",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3Hb7BdQ",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
