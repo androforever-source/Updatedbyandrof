@@ -1,0 +1,12 @@
+{
+  "appName": "Currency Plus Premium",
+  "version": "3.4.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4nU3gM4",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
