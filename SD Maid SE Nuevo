@@ -1,0 +1,12 @@
+{
+  "appName": "SD Maid SE Premium",
+  "version": "1.7.5-rc0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4rqyKKB",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
