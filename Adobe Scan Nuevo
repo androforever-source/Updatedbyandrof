@@ -1,0 +1,12 @@
+{
+  "appName": "Adobe Scan Premium",
+  "version": "26.06.12",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3JZpMnz",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
