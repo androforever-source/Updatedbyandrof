@@ -1,0 +1,12 @@
+{
+  "appName": "MX Player Pro",
+  "version": "2.14.1",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/47jVN39",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
