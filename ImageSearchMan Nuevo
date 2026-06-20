@@ -1,0 +1,12 @@
+{
+  "appName": "ImageSearchMan Premium",
+  "version": "3.65",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/46WnVIY",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
