@@ -1,0 +1,12 @@
+{
+  "appName": "Pulse SMS Premium",
+  "version": "7.0.1.3042",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4ahfJFJ",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
