@@ -1,0 +1,12 @@
+{
+  "appName": "MyRecorder VIP",
+  "version": "1.02.43.0615",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4piaIAX",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version VIP Desbloqueado",
+ "Sin anuncios"
+ ]
+}
