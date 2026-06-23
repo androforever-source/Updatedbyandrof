@@ -1,0 +1,12 @@
+{
+  "appName": "Podcast Addict Premium",
+  "version": "2026.7",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3VAkQIr",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
