@@ -1,0 +1,12 @@
+{
+  "appName": "9GAG Pro",
+  "version": "8.18.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3URhqkp",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
