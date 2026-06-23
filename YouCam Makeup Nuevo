@@ -1,0 +1,12 @@
+{
+  "appName": "YouCam Makeup Premium",
+  "version": "6.44.1",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/43zXVkT",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
