@@ -1,0 +1,12 @@
+{
+  "appName": "Lifesum Premium",
+  "version": "20.7.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4806g4n",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
