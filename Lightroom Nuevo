@@ -1,0 +1,12 @@
+{
+  "appName": "Lightroom Premium",
+  "version": "11.4.1",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4qbLbKY",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
