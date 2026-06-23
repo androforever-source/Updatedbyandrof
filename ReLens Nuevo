@@ -1,0 +1,12 @@
+{
+  "appName": "ReLens Premium",
+  "version": "4.2.1",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3UK9X6u",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
