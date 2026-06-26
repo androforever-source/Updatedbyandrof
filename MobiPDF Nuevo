@@ -1,0 +1,12 @@
+{
+  "appName": "MobiPDF Premium",
+  "version": "11.15.270544",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/41HpdFj",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
