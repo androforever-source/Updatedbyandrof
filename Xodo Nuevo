@@ -1,0 +1,12 @@
+{
+  "appName": "Xodo Premium",
+  "version": "10.16.1",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4okM4QD",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
