@@ -1,0 +1,12 @@
+{
+  "appName": "LightX Pro",
+  "version": "2.5.7",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3KNyjup",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
