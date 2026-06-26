@@ -1,0 +1,12 @@
+{
+  "appName": "VPN Super Premium",
+  "version": "2.28.2",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3H8Fb4c",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
