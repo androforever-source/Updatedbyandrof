@@ -1,0 +1,12 @@
+{
+  "appName": "Tumblr Premium",
+  "version": "45.1.0.113",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4pcjr8f",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
