@@ -1,0 +1,12 @@
+{
+  "appName": "Streamflix Premium",
+  "version": "1.7.225",
+  "forceUpdate": true,
+  "updateUrl": "https://androforever.com/streamflix-apk-premium/",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
