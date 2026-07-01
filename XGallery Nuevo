@@ -1,0 +1,12 @@
+{
+  "appName": "XGallery Premium",
+  "version": "2.1.2",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4fmysA1",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
