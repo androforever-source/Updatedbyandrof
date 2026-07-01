@@ -1,0 +1,12 @@
+{
+  "appName": "Easy Notes Premium",
+  "version": "1.3.53.0626",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4mBFCDq",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
