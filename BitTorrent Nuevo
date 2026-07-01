@@ -1,0 +1,12 @@
+{
+  "appName": "BitTorrent Pro",
+  "version": "8.3.15",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3Y0wRs4",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
