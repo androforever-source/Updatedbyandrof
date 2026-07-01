@@ -1,0 +1,12 @@
+{
+  "appName": "XPlayer Premium",
+  "version": "2.7.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3X4BsJg",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
