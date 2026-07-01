@@ -1,0 +1,12 @@
+{
+  "appName": "Filmigo Pro",
+  "version": "6.6.7.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/47rabqe",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
