@@ -1,0 +1,12 @@
+{
+  "appName": "My Diary Pro",
+  "version": "1.04.13.0527",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/43oCIue",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
