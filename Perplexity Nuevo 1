@@ -1,0 +1,12 @@
+{
+  "appName": "Perplexity Premium",
+  "version": "2.91.1",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3W3OrdC",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
