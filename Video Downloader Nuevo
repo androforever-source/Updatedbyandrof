@@ -1,12 +1,12 @@
 {
-  "appName": "Video Downloader Premium",
-  "version": "2.6.5",
+  "appName": "Video Downloader Pro",
+  "version": "2.6.7",
   "forceUpdate": true,
   "updateUrl": "https://bit.ly/4fxn5Fv",
   "btnUpdateText": "UPDATE NOW",
   "btnExitText": "EXIT",
  "changelog": [
- "Version Premium Desbloqueado",
- "Sin Anuncios",
+ "Version Pro Desbloqueado",
+ "Sin Anuncios"
  ]
 }
