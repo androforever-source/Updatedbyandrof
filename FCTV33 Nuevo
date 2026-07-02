@@ -1,0 +1,12 @@
+{
+  "appName": "FCTV33 Premium",
+  "version": "3.0.320",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/44z1IPY",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
