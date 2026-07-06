@@ -1,0 +1,12 @@
+{
+  "appName": "AT Player Premium",
+  "version": "20260627",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/422VVko",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
