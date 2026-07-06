@@ -1,0 +1,12 @@
+{
+  "appName": "RAR Premium",
+  "version": "7.23.build133",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3WRixBx",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
