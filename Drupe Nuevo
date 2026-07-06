@@ -1,0 +1,12 @@
+{
+  "appName": "Drupe Premium",
+  "version": "3.26.2.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/48I6U6l",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
