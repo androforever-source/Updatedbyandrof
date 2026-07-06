@@ -1,0 +1,12 @@
+{
+  "appName": "Bikemap Premium",
+  "version": "21.6.4",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/48TCCOo",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
