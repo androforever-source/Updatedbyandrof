@@ -1,0 +1,12 @@
+{
+  "appName": "Musixmatch Premium",
+  "version": "8.4.2",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4nTsqtv",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
