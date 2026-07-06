@@ -1,0 +1,12 @@
+{
+  "appName": "Castify Premium",
+  "version": "12.298",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/464KGJv",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
