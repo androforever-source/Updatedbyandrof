@@ -1,0 +1,12 @@
+{
+  "appName": "Ventusky Premium",
+  "version": "54.3",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4ax1ixd",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
