@@ -1,0 +1,12 @@
+{
+  "appName": "7Fon Premium",
+  "version": "6.3.51",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4oZyD8a",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
