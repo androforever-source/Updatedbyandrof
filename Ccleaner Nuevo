@@ -1,0 +1,12 @@
+{
+  "appName": "Ccleaner Pro",
+  "version": "26.12.1",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/47bzAV8",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
