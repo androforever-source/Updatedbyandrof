@@ -1,0 +1,12 @@
+{
+  "appName": "Instasize Premium",
+  "version": "5.6.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/42QHW1B",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
