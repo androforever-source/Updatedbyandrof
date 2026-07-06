@@ -1,0 +1,13 @@
+{
+  "appName": "FreeReels Premium",
+  "version": "2.3.70",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4wQek1K",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Acceso VIP Total",
+ "Anuncios eliminados",
+ "Episodios desbloqueados"
+ ]
+}
