@@ -1,0 +1,12 @@
+{
+  "appName": "VN Editor Premium",
+  "version": "2.16.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4hqCGrK",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
