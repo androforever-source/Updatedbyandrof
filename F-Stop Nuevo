@@ -1,0 +1,12 @@
+{
+  "appName": "F-Stop Pro",
+  "version": "5.5.49",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3WwdENT",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
