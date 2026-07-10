@@ -1,0 +1,12 @@
+{
+  "appName": "AVG Cleaner Pro",
+  "version": "26.12.2",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3JpNDgn",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
