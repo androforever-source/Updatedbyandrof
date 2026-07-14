@@ -1,0 +1,12 @@
+{
+  "appName": "Walli 4K Premium",
+  "version": "2.13.1",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4tNVNk",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Premium Desbloqueado",
+ "Anuncios eliminados"
+ ]
+}
