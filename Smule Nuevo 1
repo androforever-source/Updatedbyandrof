@@ -1,0 +1,12 @@
+{
+  "appName": "Smule Premium",
+  "version": "13.0.7",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3JRmyCP",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
