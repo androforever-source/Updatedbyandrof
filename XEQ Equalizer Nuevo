@@ -1,0 +1,12 @@
+{
+  "appName": "XEQ Equalizer Premium",
+  "version": "38.3.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3N7KOCd",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
