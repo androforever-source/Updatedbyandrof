@@ -1,0 +1,12 @@
+{
+  "appName": "Poweramp Pro",
+  "version": "build-1025-bundle-play",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4o0J2zS",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
