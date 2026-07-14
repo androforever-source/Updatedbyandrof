@@ -1,0 +1,12 @@
+{
+  "appName": "Daily Random Facts Premium",
+  "version": "5.4.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4q3gbvo",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
