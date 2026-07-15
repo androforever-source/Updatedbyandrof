@@ -1,0 +1,12 @@
+{
+  "appName": "Nova Play Premium",
+  "version": "1.2.6",
+  "forceUpdate": true,
+  "updateUrl": "https://androforever.com/nova-play-apk-android/",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
