@@ -1,0 +1,12 @@
+{
+  "appName": "PPSSPP Gold Pro",
+  "version": "v1.20.4",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4cBIEFG",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin Anuncios",
+ ]
+}
