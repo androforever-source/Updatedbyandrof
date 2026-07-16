@@ -1,0 +1,12 @@
+{
+  "appName": "Mondly Premium",
+  "version": "10.41.2",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4ftpFfU",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
