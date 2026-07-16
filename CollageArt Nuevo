@@ -1,0 +1,12 @@
+{
+  "appName": "CollageArt Premium",
+  "version": "2.9.46",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/44gwpJE",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
