@@ -1,0 +1,12 @@
+{
+  "appName": "Invoice Maker Premium",
+  "version": "1.02.60.0414",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4fErUyu",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin Anuncios"
+ ]
+}
