@@ -1,0 +1,12 @@
+{
+  "appName": "Zapya Premium",
+  "version": "7.0.6",
+  "forceUpdate": true,
+  "updateUrl": "https://androforever.com/zapya-premium-apk/",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin Anuncios",
+ ]
+}
