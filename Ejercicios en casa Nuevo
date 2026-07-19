@@ -1,0 +1,12 @@
+{
+  "appName": "Ejercicios en casa Premium",
+  "version": "1.7.7",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/46fKffB",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
