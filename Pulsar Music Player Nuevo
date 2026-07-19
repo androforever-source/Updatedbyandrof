@@ -1,0 +1,12 @@
+{
+  "appName": "Pulsar Music Player Pro",
+  "version": "1.13.12",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4pr3E6e",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
