@@ -1,0 +1,12 @@
+{
+  "appName": "Songsterr Premium",
+  "version": "6.5.44",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4mvFhC0",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
