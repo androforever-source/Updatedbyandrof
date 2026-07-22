@@ -1,0 +1,12 @@
+{
+  "appName": "To do List Pro",
+  "version": "1.03.24.0716",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3XYzNoN",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Pro Desbloqueado",
+ "Anuncios eliminados"
+ ]
+}
