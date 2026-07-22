@@ -1,0 +1,12 @@
+{
+  "appName": "Weather Radar Pro",
+  "version": "2026.15",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4nq2gOY",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Pro Desbloqueado",
+ "Anuncios eliminados"
+ ]
+}
