@@ -1,0 +1,12 @@
+{
+  "appName": "Muzio Player Premium",
+  "version": "7.8.5",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/44PCvRb",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
