@@ -1,0 +1,12 @@
+{
+  "appName": "Mivi Premium",
+  "version": "2.35.923",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4l7TaVB",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
