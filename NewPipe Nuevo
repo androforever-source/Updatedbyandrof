@@ -1,6 +1,6 @@
 {
   "appName": "NewPipe Premium",
-  "version": "0.28.8",
+  "version": "0.29.0",
   "forceUpdate": true,
   "updateUrl": "https://bit.ly/3J1GmCY",
   "btnUpdateText": "UPDATE NOW",
