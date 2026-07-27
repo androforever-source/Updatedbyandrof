@@ -1,0 +1,12 @@
+{
+  "appName": "V Recorder Premium",
+  "version": "8.3.0.1",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3Lhp8D3",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
