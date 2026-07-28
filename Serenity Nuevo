@@ -1,0 +1,12 @@
+{
+  "appName": "Serenity Premium",
+  "version": "6.8.1",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4ngyVGi",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
