@@ -1,0 +1,12 @@
+{
+  "appName": "Fing Premium",
+  "version": "12.13.2",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/49K3OQG",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
