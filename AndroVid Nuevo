@@ -1,0 +1,12 @@
+{
+  "appName": "AndroVid Pro",
+  "version": "7.3.0.1",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3LXSh6A",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
