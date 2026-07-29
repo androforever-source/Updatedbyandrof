@@ -1,0 +1,12 @@
+{
+  "appName": "Podcast Go Premium",
+  "version": "2.23.102",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4q7GwK3",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
