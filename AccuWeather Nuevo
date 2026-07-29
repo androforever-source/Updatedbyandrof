@@ -1,6 +1,6 @@
 {
   "appName": "AccuWeather Premium",
-  "version": "21.1.12-2-rc",
+  "version": "21.1.14-4-rc",
   "forceUpdate": true,
   "updateUrl": "https://bit.ly/4nbbKOi",
   "btnUpdateText": "UPDATE NOW",
