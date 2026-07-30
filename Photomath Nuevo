@@ -1,0 +1,12 @@
+{
+  "appName": "Photomath Premium",
+  "version": "8.48.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4kUEefa",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
