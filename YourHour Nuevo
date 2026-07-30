@@ -1,0 +1,12 @@
+{
+  "appName": "YourHour Premium",
+  "version": "4.2.36",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4oxVaZF",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
