@@ -1,0 +1,12 @@
+{
+  "appName": "Waze Premium",
+  "version": "5.22.0.2",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4qdxMSG",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
