@@ -1,0 +1,12 @@
+{
+  "appName": "OneFootball Premium",
+  "version": "15.136.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/44XMS5L",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
