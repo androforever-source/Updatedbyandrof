@@ -1,0 +1,12 @@
+{
+  "appName": "Beatly Premium",
+  "version": "2.48.11099",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3JFdroG",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
