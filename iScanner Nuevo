@@ -1,0 +1,12 @@
+{
+  "appName": "iScanner Premium",
+  "version": "6.4.6",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4wzovaj",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
