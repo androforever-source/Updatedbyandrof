@@ -1,0 +1,12 @@
+{
+  "appName": "Muviz Edge Premium",
+  "version": "2.1.4.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/470EYtV",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
