@@ -1,0 +1,12 @@
+{
+  "appName": "Poweramp Equalizer Premium",
+  "version": "build-1028-uni",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4pRJhyz",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
