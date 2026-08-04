@@ -1,0 +1,12 @@
+{
+  "appName": "Voice Notebook Premium",
+  "version": "3.1.7",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4uOyd8j",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
