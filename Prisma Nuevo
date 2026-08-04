@@ -1,0 +1,12 @@
+{
+  "appName": "Prisma Premium",
+  "version": "4.6.5.633",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4awMSgK",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
