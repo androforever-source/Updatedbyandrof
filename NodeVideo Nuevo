@@ -1,0 +1,12 @@
+{
+  "appName": "Node Video Pro",
+  "version": "8.8.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3HSaK2C",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin Anuncios",
+ ]
+}
