@@ -1,0 +1,12 @@
+{
+  "appName": "Soda Reels Premium",
+  "version": "3.4.1",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4upvkLd",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
