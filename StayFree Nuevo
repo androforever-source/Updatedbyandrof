@@ -1,0 +1,12 @@
+{
+  "appName": "StayFree Premium",
+  "version": "20.11.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4cxo7kA",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
