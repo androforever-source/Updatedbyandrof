@@ -1,0 +1,12 @@
+{
+  "appName": "Photo Edito Pro",
+  "version": "13.6",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3Pqbnnl",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
