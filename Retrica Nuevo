@@ -1,0 +1,12 @@
+{
+  "appName": "Retrica Premium",
+  "version": "9.3",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4bKkW8X",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
