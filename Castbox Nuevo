@@ -1,0 +1,12 @@
+{
+  "appName": "Castbox Premium",
+  "version": "11.25.0-260714314",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4wpPp3M",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
