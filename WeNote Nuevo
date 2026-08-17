@@ -1,0 +1,12 @@
+{
+  "appName": "WeNote Premium",
+  "version": "6.77",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/42mobic",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
