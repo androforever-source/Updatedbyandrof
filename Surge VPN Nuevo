@@ -1,0 +1,12 @@
+{
+  "appName": "Surge VPN Premium",
+  "version": "1.8.6",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/41eFpgD",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
