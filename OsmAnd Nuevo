@@ -1,0 +1,12 @@
+{
+  "appName": "OsmAnd Premium",
+  "version": "5.4.1",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4hRojg4",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
