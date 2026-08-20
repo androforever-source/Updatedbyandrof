@@ -1,0 +1,12 @@
+{
+  "appName": "Thermer Premium",
+  "version": "6.4.8.37",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/45kKWUi",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
