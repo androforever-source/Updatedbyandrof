@@ -1,0 +1,12 @@
+{
+  "appName": "Vidmix Premium",
+  "version": "2.35.614",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4hPhBak",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
