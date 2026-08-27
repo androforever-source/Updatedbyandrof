@@ -1,0 +1,12 @@
+{
+  "appName": "WPS Office Premium",
+  "version": "26.8.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4ocNwn9",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
