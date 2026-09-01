@@ -1,0 +1,12 @@
+{
+  "appName": "Remini Premium",
+  "version": "3.7.1427.202524270",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4iVPMhk",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
