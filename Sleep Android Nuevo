@@ -1,0 +1,12 @@
+{
+  "appName": "Sleep Android Premium",
+  "version": "20260816",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4oXr8OU",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
