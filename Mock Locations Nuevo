@@ -1,0 +1,12 @@
+{
+  "appName": "Mock Locations Pro",
+  "version": "1.37.2",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/45nZB13",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
