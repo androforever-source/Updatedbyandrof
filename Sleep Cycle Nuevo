@@ -1,0 +1,12 @@
+{
+  "appName": "Sleep Cycle Premium",
+  "version": "4.26.36-production",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3J9m9vy",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin Anuncios",
+ ]
+}
