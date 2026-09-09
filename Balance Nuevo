@@ -1,0 +1,12 @@
+{
+  "appName": "Balance Premium",
+  "version": "1.210.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4lb4oc6",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
