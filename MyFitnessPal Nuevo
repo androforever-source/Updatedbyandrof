@@ -1,0 +1,12 @@
+{
+  "appName": "MyFitnessPal Premium",
+  "version": "26.35.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3IWCbZj",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
