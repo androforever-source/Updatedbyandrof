@@ -1,0 +1,12 @@
+{
+  "appName": "MovieBox Premium",
+  "version": "4.0.02.0831.02",
+  "forceUpdate": true,
+  "updateUrl": "https://androforever.com/moviebox-premium-apk/",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
