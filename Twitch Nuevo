@@ -1,0 +1,12 @@
+{
+  "appName": "Twitch Premium",
+  "version": "31.0.1",
+  "forceUpdate": true,
+  "updateUrl": "https://androforever.com/twitch-premium-apk/",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
