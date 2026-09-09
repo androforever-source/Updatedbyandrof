@@ -1,0 +1,12 @@
+{
+  "appName": "IMDb Premium",
+  "version": "9.3.5.109350300",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4oTJ7X7",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
