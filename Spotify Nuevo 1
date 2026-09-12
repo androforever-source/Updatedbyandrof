@@ -1,0 +1,12 @@
+{
+  "appName": "Spotify Premium",
+  "version": "9.1.82.2160",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4l9WZcS",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
