@@ -1,0 +1,12 @@
+{
+  "appName": "WiFi Mouse Pro",
+  "version": "6.0.5",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4o5LaGi",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
