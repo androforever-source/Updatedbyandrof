@@ -1,0 +1,12 @@
+{
+  "appName": "Novastrim Premium",
+  "version": "1.50",
+  "forceUpdate": true,
+  "updateUrl": "https://androforever.com/novastrim-apk/",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
