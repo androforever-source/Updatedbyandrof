@@ -1,0 +1,12 @@
+{
+  "appName": "Kiwi VPN Premium",
+  "version": "36",
+  "forceUpdate": true,
+  "updateUrl": "https://androforever.com/kiwi-vpn-premium-apk/",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
