@@ -1,0 +1,12 @@
+{
+  "appName": "uTorrent Pro",
+  "version": "8.3.19",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3JYmvFK",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin Anuncios",
+ ]
+}
