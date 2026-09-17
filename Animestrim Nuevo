@@ -1,0 +1,12 @@
+{
+  "appName": "Animestrim Premium",
+  "version": "1.0",
+  "forceUpdate": true,
+  "updateUrl": "https://androforever.com/animestrim-apk/",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
