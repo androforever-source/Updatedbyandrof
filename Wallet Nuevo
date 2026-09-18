@@ -1,0 +1,12 @@
+{
+  "appName": "Wallet Premium",
+  "version": "9.3.10",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/49U6tqj",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
