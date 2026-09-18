@@ -1,0 +1,12 @@
+{
+  "appName": "X Downloader Premium",
+  "version": "2.3.18",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4aGbEKR",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Premium Desbloqueado",
+ "Anuncios eliminados"
+ ]
+}
