@@ -1,0 +1,12 @@
+{
+  "appName": "PlayBack Premium",
+  "version": "2.0.9",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4oZ4plC",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
