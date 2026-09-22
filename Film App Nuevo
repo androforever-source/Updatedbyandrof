@@ -1,0 +1,12 @@
+{
+  "appName": "Film App Premium",
+  "version": "5.0.6",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4yT5LDy",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin Anuncios"
+ ]
+}
