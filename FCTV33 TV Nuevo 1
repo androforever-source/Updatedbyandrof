@@ -1,12 +1,11 @@
 {
-  "appName": "FCTV33 TV Premium",
-  "version": "3.0.321",
-  "forceUpdate": true,
-  "updateUrl": "https://bit.ly/44z1IPY",
-  "btnUpdateText": "UPDATE NOW",
-  "btnExitText": "EXIT",
- "changelog": [
- "Version Premium Desbloqueado",
- "Sin anuncios"
- ]
+  "show": true,
+  "version_name": "01.06.01.08",
+  "force_update": false,
+  "title": "Nueva Actualización Disponible!",
+  "message": "Actualiza la última versión para disfrutar de las nuevas funciones y mejoras.",
+  "button_text": "ACTUALIZAR AHORA",
+  "cancel_button_text": "CERRAR",
+  "action_url": "https://androforever.com/aerofly-fs-apk-android",
+  "theme": "dark"
 }
