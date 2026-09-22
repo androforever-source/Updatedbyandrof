@@ -1,0 +1,12 @@
+{
+  "appName": "Calculator Plus",
+  "version": "8.4.1",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/47bOpqH",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Plus Desbloqueado",
+ "Sin anuncios"
+ ]
+}
