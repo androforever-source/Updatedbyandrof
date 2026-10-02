@@ -1,0 +1,12 @@
+{
+  "appName": "NokoPrint Premium",
+  "version": "5.28.6",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/41FsCEB",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
