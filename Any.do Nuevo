@@ -1,0 +1,12 @@
+{
+  "appName": "Any.do Premium",
+  "version": "5.22.4.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4eaqeeX",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
