@@ -1,0 +1,12 @@
+{
+  "appName": "Imprint Premium",
+  "version": "3.15.4",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3QDgzEO",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
