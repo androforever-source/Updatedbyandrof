@@ -1,0 +1,12 @@
+{
+  "appName": "BetterSleep Premium",
+  "version": "26.17",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4fpIqku",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
