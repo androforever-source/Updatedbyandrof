@@ -1,0 +1,14 @@
+{
+  "appName": "NetShort Premium",
+  "version": "2.2.7",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/42R6xmV",
+  "btnUpdateText": "ACTUALIZAR AHORA",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Funciones pagas desbloqueadas",
+ "Capítulos desbloqueados",
+ "Sin anuncios",
+ "Mod estable"
+ ]
+}
