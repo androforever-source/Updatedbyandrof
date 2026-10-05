@@ -1,0 +1,12 @@
+{
+  "appName": "HiPER Calc Pro",
+  "version": "12.1",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4615jX3",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
