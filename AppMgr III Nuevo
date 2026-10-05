@@ -1,0 +1,12 @@
+{
+  "appName": "AppMgr III Pro",
+  "version": "6.21",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/47jy2bX",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
