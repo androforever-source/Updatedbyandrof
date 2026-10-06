@@ -1,8 +1,8 @@
 {
-  "versionName": "5.18.16.8",
+  "versionName": "5.22.4.0",
   "forceUpdate": false,
   "title": "Nueva Actualización Disponible!",
   "description": "Actualiza la última versión y obten las últimas funciones.",
   "buttonText": "ACTUALIZAR AHORA",
-  "buttonUrl": "https://t.me/androforever_oficial/8458"
+  "buttonUrl": "https://bit.ly/4eaqeeX"
 }
