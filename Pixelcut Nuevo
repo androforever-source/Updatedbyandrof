@@ -1,0 +1,12 @@
+{
+  "appName": "Pixelcut Premium",
+  "version": "0.9.51",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4najlfK",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
