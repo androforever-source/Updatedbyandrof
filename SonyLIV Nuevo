@@ -1,0 +1,12 @@
+{
+  "appName": "SonyLIV Premium",
+  "version": "6.38.18",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/47Axn4G",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
