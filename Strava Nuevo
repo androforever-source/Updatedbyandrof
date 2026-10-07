@@ -1,0 +1,12 @@
+{
+  "appName": "Strava Premium",
+  "version": "483.10",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4axevWF",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
