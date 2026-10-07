@@ -1,0 +1,12 @@
+{
+  "appName": "Omnia Premium",
+  "version": "1.8.6",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4yC3QmX",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
