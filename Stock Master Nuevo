@@ -1,0 +1,12 @@
+{
+  "appName": "Stock Master Premium",
+  "version": "7.82",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3IZIhIq",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
