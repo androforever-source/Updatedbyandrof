@@ -1,0 +1,12 @@
+{
+  "appName": "PELISHAX Premium",
+  "version": "2.4",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/48j3wiO",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
