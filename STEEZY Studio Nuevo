@@ -1,0 +1,12 @@
+{
+  "appName": "STEEZY Studio Premium",
+  "version": "5.23.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3JjZYTc",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
