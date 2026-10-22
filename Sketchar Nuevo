@@ -1,0 +1,12 @@
+{
+  "appName": "Sketchar Pro",
+  "version": "1.0.1.2-play",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3V5FO1F",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
