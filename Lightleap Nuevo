@@ -1,0 +1,12 @@
+{
+  "appName": "Lightleap Pro",
+  "version": "1.6.2",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3WCjEoD",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin Anuncios"
+ ]
+}
