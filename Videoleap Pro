@@ -1,0 +1,12 @@
+{
+  "appName": "Videoleap Pro",
+  "version": "1.40.1",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3WGvdev",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
