@@ -1,0 +1,12 @@
+{
+  "appName": "LingoDeer Premium",
+  "version": "2.99.415",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4vROWIk",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
