@@ -1,0 +1,12 @@
+{
+  "appName": "Whoscall Premium",
+  "version": "8.11",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/47Ko7KR",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
