@@ -1,0 +1,12 @@
+{
+  "appName": "PicWish Pro",
+  "version": "2.3.3",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4t4zw0E",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
