@@ -1,0 +1,12 @@
+{
+  "appName": "VivaVideo Pro",
+  "version": "9.38.5",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4s627Ul",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Pro Desbloqueado",
+ "Sin anuncios"
+ ]
+}
