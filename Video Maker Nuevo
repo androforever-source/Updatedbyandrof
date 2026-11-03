@@ -1,0 +1,12 @@
+{
+  "appName": "Video Maker Premium",
+  "version": "12.11.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/48a2ox1",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
