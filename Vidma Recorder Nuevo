@@ -1,0 +1,12 @@
+{
+  "appName": "Vidma Recorder Premium",
+  "version": "3.7.44",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3ISmaUd",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
