@@ -1,0 +1,12 @@
+{
+  "appName": "ProCCD Premium",
+  "version": "5.1.1",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4rIeVA9",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
