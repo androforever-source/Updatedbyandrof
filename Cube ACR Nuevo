@@ -1,0 +1,12 @@
+{
+  "appName": "Cube ACR Premium",
+  "version": "2.4.292",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/49WSeSj",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
