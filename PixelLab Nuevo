@@ -1,0 +1,12 @@
+{
+  "appName": "PixelLab Premium",
+  "version": "2.2.0",
+  "forceUpdate": true,
+  "updateUrl": "https://androforever.com/pixellab-premium-apk/",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
