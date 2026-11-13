@@ -1,0 +1,12 @@
+{
+  "appName": "SimplyPiano Nuevo",
+  "version": "7.33.11",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/3I5EJnJ",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
