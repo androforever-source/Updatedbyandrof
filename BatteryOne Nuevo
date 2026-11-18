@@ -1,0 +1,12 @@
+{
+  "appName": "BatteryOne Premium",
+  "version": "2.6.9",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/48dpfsy",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
