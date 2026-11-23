@@ -1,0 +1,12 @@
+{
+  "appName": "AZIP Master Premium",
+  "version": "4.2.5",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/46cOQAh",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
