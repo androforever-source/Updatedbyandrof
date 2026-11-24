@@ -1,0 +1,12 @@
+{
+  "appName": "Remixlive Premium",
+  "version": "8.6.2",
+  "forceUpdate": true,
+  "updateUrl": "https://androforever.com/remixlive-premium-apk/",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin Anuncios"
+ ]
+}
