@@ -1,0 +1,12 @@
+{
+  "appName": "Chordify Premium",
+  "version": "1992",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/47x7zXX",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
