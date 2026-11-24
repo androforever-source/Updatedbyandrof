@@ -1,0 +1,12 @@
+{
+  "appName": "BandLab Premium",
+  "version": "11.22.0",
+  "forceUpdate": true,
+  "updateUrl": "https://androforever.com/bandlab-premium-apk/",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
