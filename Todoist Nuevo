@@ -1,0 +1,12 @@
+{
+  "appName": "Todoist Premium",
+  "version": "12352",
+  "forceUpdate": true,
+  "updateUrl": "https://androforever.com/todoist-premium-apk/",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Premium Desbloqueado",
+ "Anuncios eliminados"
+ ]
+}
