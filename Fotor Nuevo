@@ -1,0 +1,12 @@
+{
+  "appName": "Fotor Premium",
+  "version": "8.1.2.0",
+  "forceUpdate": true,
+  "updateUrl": "https://androforever.com/fotor-photo-pro-apk/",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
