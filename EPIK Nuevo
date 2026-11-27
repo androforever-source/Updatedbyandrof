@@ -1,0 +1,12 @@
+{
+  "appName": "EPIK Premium",
+  "version": "7.0.112",
+  "forceUpdate": true,
+  "updateUrl": "https://androforever.com/epik-premium-apk/",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
