@@ -1,0 +1,12 @@
+{
+  "appName": "Mojo Premium",
+  "version": "3.21.3",
+  "forceUpdate": true,
+  "updateUrl": "https://androforever.com/mojo-pro-apk/",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
